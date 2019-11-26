@@ -14,16 +14,16 @@ show fetch record from external source {Jsonplaceholder.}, show table with mock 
 ![Screenshot](grommetTable.PNG)
 
 ### "/database" :
-To show Gromment commponets to create tow column landing page.
+To show Gromment commponets to create two column landing page.
 ![Screenshot](database.PNG)
 
-### "CountetApp" :
-To demo Reduct store mangement example.
+### "CounterApp" :
+To demo Reduct store management example.
 ![Screenshot](CounterAPP.PNG)
 
 
 ### "Game":
-Tic tac game .
+Tic-tac-To game .
 ![Screenshot](game.PNG)
 
 
