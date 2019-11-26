@@ -1,0 +1,7 @@
+{"table1_data" : [
+    { "name": "Alan", "percent": 20, "Company": "HPE" },
+    { "name": "Bryan", "percent": 30, "Company": "HP" },
+    { "name": "Chris", "percent": 40, "Company": "ARUBA" },
+    { "name": "Eric", "percent": 80, "Company": "DXC" }
+  ]}
+
