@@ -4,11 +4,22 @@ Use Gromment components , React _redux data store management example
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Application details: 
- Default{home} / To do app demo with redux
- "/Tabel": show fetch record, show table with mock json data, using Grommet Table and Form.
- "/database" : To show Gromment commponets to create tow column landing page.
- "CountetApp" : To demo Reduct store mangement example.
- "Game": Tic tac game .
+
+### Default{home} / 
+
+To do app demo with redux
+ 
+### "/Table": 
+show fetch record from external source {Jsonplaceholder.}, show table with mock json data, using Grommet Table and Form.
+
+### "/database" :
+To show Gromment commponets to create tow column landing page.
+
+### "CountetApp" :
+To demo Reduct store mangement example.
+
+### "Game":
+Tic tac game .
 
 
 ### `npm start`
