@@ -11,15 +11,20 @@ To do app demo with redux
  
 ### "/Table": 
 show fetch record from external source {Jsonplaceholder.}, show table with mock json data, using Grommet Table and Form.
+![Screenshot](grommetTable.PNG)
 
 ### "/database" :
 To show Gromment commponets to create tow column landing page.
+![Screenshot](database.PNG)
 
 ### "CountetApp" :
 To demo Reduct store mangement example.
+![Screenshot](CounterAPP.PNG)
+
 
 ### "Game":
 Tic tac game .
+![Screenshot](game.PNG)
 
 
 ### `npm start`
